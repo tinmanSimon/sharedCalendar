@@ -1,0 +1,8 @@
+server:
+npm init
+npm i express nodemon socket.io cors
+
+
+
+client:
+npx create-react-app .
